@@ -126,3 +126,7 @@ Android.bp
 
 # Out directory
 out/
+# Extra files
+obj
+out
+AnyKernel3
